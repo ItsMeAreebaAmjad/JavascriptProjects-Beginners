@@ -5,7 +5,7 @@ Welcome to my GitHub! Here, I've created and showcased 11 different projects usi
 ## Table of Contents
 
 1. [Project 1: Alarm App](https://github.com/ItsMeAreebaAmjad/JavascriptProjects-Beginners/tree/main/Alarm%20App)
-2. [Project 2: Calculator](#project-2-project-name)
+2. [Project 2: Calculator](https://github.com/ItsMeAreebaAmjad/JavascriptProjects-Beginners/tree/main/Calculator)
 3. [Project 3: Feedback Form](#project-3-project-name)
 4. [Project 4: Notes App](#project-4-project-name)
 5. [Project 5: Page Loading Animation](#project-5-project-name)
