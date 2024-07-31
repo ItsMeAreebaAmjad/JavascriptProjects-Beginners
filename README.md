@@ -50,7 +50,7 @@ Page Loading Animation is created using HTML, CSS and Javascript.It loads for th
 
 This project is created using HTML,CSS and Javascript.You will click on Roll the dice button ,whatever 2 dices come it will display the score.Here is the screenshot:
 
-![Project 6 Screenshot](path/to/screenshot6.png)
+![Project 6 Screenshot](https://github.com/ItsMeAreebaAmjad/JavascriptProjects-Beginners/blob/main/Roll%20The%20Dice/RollTheDice.png)
 
 ## Project 7: Spin Wheel App
 
