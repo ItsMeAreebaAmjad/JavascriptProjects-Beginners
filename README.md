@@ -68,7 +68,7 @@ This is created using HTML, CSS and Javascript.There are two buttons On and Off 
 
 This project is created using HTML,CSS and Javascript.You will enter the text of your choice and you will be able to listen the corresponding sound.Here is the screenshot:
 
-![Project 9 Screenshot](path/to/screenshot9.png)
+![Project 9 Screenshot](https://github.com/ItsMeAreebaAmjad/JavascriptProjects-Beginners/blob/main/Text%20to%20Voice%20Converter/TextToVoiceConverter.png)
 
 ## Project 10: Text Editor
 
