@@ -8,7 +8,7 @@ Welcome to my GitHub! Here, I've created and showcased 11 different projects usi
 2. [Project 2: Calculator](https://github.com/ItsMeAreebaAmjad/JavascriptProjects-Beginners/tree/main/Calculator)
 3. [Project 3: Feedback Form](https://github.com/ItsMeAreebaAmjad/JavascriptProjects-Beginners/tree/main/FeedbackForm)
 4. [Project 4: Notes App](https://github.com/ItsMeAreebaAmjad/JavascriptProjects-Beginners/tree/main/Notes%20App)
-5. [Project 5: Page Loading Animation](#project-5-project-name)
+5. [Project 5: Page Loading Animation](https://github.com/ItsMeAreebaAmjad/JavascriptProjects-Beginners/tree/main/Page%20Loading%20Animation)
 6. [Project 6: Roll the Dice](#project-6-project-name)
 7. [Project 7: Spin Wheel App](#project-7-project-name)
 8. [Project 8: Switch On Off](#project-8-project-name)
