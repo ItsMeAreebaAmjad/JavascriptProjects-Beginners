@@ -74,7 +74,7 @@ This project is created using HTML,CSS and Javascript.You will enter the text of
 
 Text Editor is a comprehensive project developed using HTML,CSS and Javascript.You will write some text and can perform all the operation like bold,font style,font size,left align,right align and all other things.Here is the screenshot:
 
-![Project 10 Screenshot](path/to/screenshot10.png)
+![Project 10 Screenshot](https://github.com/ItsMeAreebaAmjad/JavascriptProjects-Beginners/blob/main/TextEditor/TextEditor.png)
 
 ## Project 11: Working Contact Form
 
