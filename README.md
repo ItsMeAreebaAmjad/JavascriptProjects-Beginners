@@ -20,7 +20,7 @@ Welcome to my GitHub! Here, I've created and showcased 11 different projects usi
 
 Alarm App is created using HTML, CSS and Javascript. Firstly you will set your time and after reaching on that time you will be able to listen a sound of the alarm.Here is the screenshot:
 
-![Project 1 Screenshot](path/to/screenshot1.png)
+![Project 1 Screenshot](https://github.com/ItsMeAreebaAmjad/JavascriptProjects-Beginners/blob/main/Alarm%20App/AlarmApp.png)
 
 ## Project 2: Calculator
 
