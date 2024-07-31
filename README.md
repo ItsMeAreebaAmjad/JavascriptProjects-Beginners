@@ -62,7 +62,7 @@ Spin Wheel App is created using HTML, CSS and Javascript.You will click on start
 
 This is created using HTML, CSS and Javascript.There are two buttons On and Off and a Bulb.When you click on the ON button the bulb will be on and when you click on OFF button the bulb will be off.Here is the screenshot:
 
-![Project 8 Screenshot](path/to/screenshot8.png)
+![Project 8 Screenshot](https://github.com/ItsMeAreebaAmjad/JavascriptProjects-Beginners/blob/main/Switch%20On%20Off/SwitchOnOff.png)
 
 ## Project 9: Text to Voice Converter
 
