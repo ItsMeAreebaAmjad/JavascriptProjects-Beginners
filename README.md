@@ -38,7 +38,7 @@ Feedback Form is created using HTML, CSS and Javascript.On the feedback form you
 
 Notes App is created using HTML, CSS and Javascript.You can enter your note in the textarea and you will be able to see that note and also delete option will be there as well.Here is the screenshot:
 
-![Project 4 Screenshot](path/to/screenshot4.png)
+![Project 4 Screenshot](https://github.com/ItsMeAreebaAmjad/JavascriptProjects-Beginners/blob/main/Notes%20App/NotesApp.png)
 
 ## Project 5: Page Loading Animation
 
