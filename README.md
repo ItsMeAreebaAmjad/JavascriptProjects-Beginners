@@ -44,7 +44,7 @@ Notes App is created using HTML, CSS and Javascript.You can enter your note in t
 
 Page Loading Animation is created using HTML, CSS and Javascript.It loads for the Five seconds and disappears.After refreshing the page again the animation will be there.Here is the screenshot:
 
-![Project 5 Screenshot](path/to/screenshot5.png)
+![Project 5 Screenshot](https://github.com/ItsMeAreebaAmjad/JavascriptProjects-Beginners/blob/main/Page%20Loading%20Animation/PageLoadingAnimation.png)
 
 ## Project 6: Roll The Dice
 
