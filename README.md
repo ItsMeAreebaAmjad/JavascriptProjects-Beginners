@@ -9,7 +9,7 @@ Welcome to my GitHub! Here, I've created and showcased 11 different projects usi
 3. [Project 3: Feedback Form](https://github.com/ItsMeAreebaAmjad/JavascriptProjects-Beginners/tree/main/FeedbackForm)
 4. [Project 4: Notes App](https://github.com/ItsMeAreebaAmjad/JavascriptProjects-Beginners/tree/main/Notes%20App)
 5. [Project 5: Page Loading Animation](https://github.com/ItsMeAreebaAmjad/JavascriptProjects-Beginners/tree/main/Page%20Loading%20Animation)
-6. [Project 6: Roll the Dice](#project-6-project-name)
+6. [Project 6: Roll the Dice](https://github.com/ItsMeAreebaAmjad/JavascriptProjects-Beginners/tree/main/Roll%20The%20Dice)
 7. [Project 7: Spin Wheel App](#project-7-project-name)
 8. [Project 8: Switch On Off](#project-8-project-name)
 9. [Project 9: Text to Voice Converter](#project-9-project-name)
