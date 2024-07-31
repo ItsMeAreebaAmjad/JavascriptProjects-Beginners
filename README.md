@@ -6,7 +6,7 @@ Welcome to my GitHub! Here, I've created and showcased 11 different projects usi
 
 1. [Project 1: Alarm App](https://github.com/ItsMeAreebaAmjad/JavascriptProjects-Beginners/tree/main/Alarm%20App)
 2. [Project 2: Calculator](https://github.com/ItsMeAreebaAmjad/JavascriptProjects-Beginners/tree/main/Calculator)
-3. [Project 3: Feedback Form](#project-3-project-name)
+3. [Project 3: Feedback Form](https://github.com/ItsMeAreebaAmjad/JavascriptProjects-Beginners/tree/main/FeedbackForm)
 4. [Project 4: Notes App](#project-4-project-name)
 5. [Project 5: Page Loading Animation](#project-5-project-name)
 6. [Project 6: Roll the Dice](#project-6-project-name)
