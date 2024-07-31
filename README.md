@@ -32,7 +32,7 @@ Alarm App is created using HTML, CSS and Javascript. Firstly you will set your t
 
 Feedback Form is created using HTML, CSS and Javascript.On the feedback form you will enter your name,email and comment and in the feedback list you will be able to see your comment after pressing submit button.Here is the screenshot:
 
-![Project 3 Screenshot](path/to/screenshot3.png)
+![Project 3 Screenshot](https://github.com/ItsMeAreebaAmjad/JavascriptProjects-Beginners/blob/main/FeedbackForm/FeedbackForm.png)
 
 ## Project 4: Notes App
 
