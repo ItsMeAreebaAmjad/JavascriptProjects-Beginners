@@ -26,7 +26,7 @@ Alarm App is created using HTML, CSS and Javascript. Firstly you will set your t
 
  Calculator is created using HTML, CSS and Javascript.You can perform all the basic operations on this calculator.Here is the screenshot:
 
-![Project 2 Screenshot](path/to/screenshot2.png)
+![Project 2 Screenshot](https://github.com/ItsMeAreebaAmjad/JavascriptProjects-Beginners/blob/main/Calculator/Calculator.png)
 
 ## Project 3: Feedback Form
 
