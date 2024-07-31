@@ -56,7 +56,7 @@ This project is created using HTML,CSS and Javascript.You will click on Roll the
 
 Spin Wheel App is created using HTML, CSS and Javascript.You will click on start button and the wheel will be start rotating and after that it will display the score.Here is the screenshot:
 
-![Project 7 Screenshot](path/to/screenshot7.png)
+![Project 7 Screenshot](https://github.com/ItsMeAreebaAmjad/JavascriptProjects-Beginners/blob/main/Spin%20Wheel%20App/SpinWheelApp.png)
 
 ## Project 8: Switch On Off
 
